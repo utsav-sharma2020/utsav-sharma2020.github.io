@@ -2,9 +2,8 @@ title:           Utsav Sharma
 description:      The homepage of Utsav Sharma.
 copyright:        Utsav Sharma
 
-domain: utsavsharma.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://utsavsharma.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: "utsavsharma.github.io"    
+baseurl: ""    
 
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
